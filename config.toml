@@ -20,15 +20,15 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+address = "100 Congress Avenue"
+author = "Admin"
+copyright = "TSTE.org &copy; 2021"
+description = "Serving Educators & Schools Across Texas"
+email = "info@tste.org"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/untitled-3.png"
-phone = "+880 2544 658 256"
+phone = "‪(210) 526-1304‬"
 theme_color = "#41228e"
 [params.contact]
 enable = true
